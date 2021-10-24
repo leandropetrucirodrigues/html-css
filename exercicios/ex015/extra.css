@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+body{
+    object-position: center;
+
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
